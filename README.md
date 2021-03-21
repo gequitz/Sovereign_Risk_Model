@@ -8,6 +8,9 @@ ____________________________________________________________________________
 
 
 ## Data Sources
+Data Sources : Detailed Economic data 1980-2020 (By Country dataset)  https://www.imf.org/en/Publications/WEO/weo-database/2020/October/download-entire-database
+Projections for 2021-2025 available, put in separate CSV
+Sovereign Default (and Restructuring) dataset (since 1970): https://sites.google.com/site/christophtrebesch/data
 
 
 ## Methodology
