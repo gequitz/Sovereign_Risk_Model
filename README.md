@@ -5,6 +5,8 @@ By: Gabriel Equitz
 ____________________________________________________________________________
 
 ## Problem Statement
+Sovereign Default can lead to billions of dollars in losses. This Sovereign Risk model will 
+There is a distinct lack of open source models on Sovereign Default. None have free web apps hosted.
 
 
 ## Data Sources
@@ -17,7 +19,9 @@ Sovereign Default (and Restructuring) dataset (since 1970): https://sites.google
 
 
 ## Files
-
+is a file that contains Streamlit web app code
+contains project code
+is a PDF of presentation slides
 
 ## Findings
 
