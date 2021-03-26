@@ -35,10 +35,13 @@ This model tries to do things other Sovereign Risk models have not done. This is
 
 
 ## Files
-- streamlit_sovereign_risk_model.py is a file that contains Streamlit web app code
-- Sovereign_Risk_9.ipynb contains main project code
-- Project 5 Sovereign Risk Final Presentation Final.pdf is a PDF of presentation slides
-- Project 5 Sovereign Risk Final Presentation Final.pptx is a Powerpoint version of presentation slides
+- 'streamlit_sovereign_risk_model.py' is a file that contains Streamlit web app code
+- 'Sovereign_Risk_9.ipynb' contains main project code in a Jupyter Notebook
+- 'Project 5 Sovereign Risk Final Presentation Final.pdf' is a PDF of presentation slides
+- 'Project 5 Sovereign Risk Final Presentation Final.pptx' is a Powerpoint version of presentation slides
+- 'Data_default_and_economics_3' contains detailed macroeconomic data from the IMF from 1980-2020
+- 'Data_number_of_defaults' contains data on all Sovereign Defaults, Restructurings, and Paris Club agreements from 1980-2020 (restructurings and Paris Club agreements are counted as defaults in this model)
+- 'Data_predicted_economic_quantities_3' contains IMF Macroeconomic Projections for 2021-2025
 
 
 ## Findings
