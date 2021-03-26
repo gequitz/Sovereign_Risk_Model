@@ -20,19 +20,19 @@ This model tries to do things other Sovereign Risk models have not done. This is
 
 
 ## Data Sources
-Data Sources : Detailed Economic data 1980-2020 (By Country dataset)  https://www.imf.org/en/Publications/WEO/weo-database/2020/October/download-entire-database
-Projections for 2021-2025 available, put in separate CSV
-Sovereign Default (and Restructuring) dataset (since 1970): https://sites.google.com/site/christophtrebesch/data
+- Data Sources : Detailed Economic data 1980-2020 (By Country dataset)  https://www.imf.org/en/Publications/WEO/weo-database/2020/October/download-entire-database
+- Projections for 2021-2025 available, put in separate CSV
+- Sovereign Default (and Restructuring) dataset (since 1970): https://sites.google.com/site/christophtrebesch/data
 
 
 ## Methodology
 
 
 ## Files
-streamlit_sovereign_risk_model.py is a file that contains Streamlit web app code
-Sovereign_Risk_9.ipynb contains main project code
-Project 5 Sovereign Risk Final Presentation Final.pdf is a PDF of presentation slides
-Project 5 Sovereign Risk Final Presentation Final.pptx is a Powerpoint version of presentation slides
+- streamlit_sovereign_risk_model.py is a file that contains Streamlit web app code
+- Sovereign_Risk_9.ipynb contains main project code
+- Project 5 Sovereign Risk Final Presentation Final.pdf is a PDF of presentation slides
+- Project 5 Sovereign Risk Final Presentation Final.pptx is a Powerpoint version of presentation slides
 
 
 ## Findings
