@@ -1,5 +1,5 @@
 # Sovereign_Risk_Model
-Final project for Metis (Project 5: Passion Project)
+Final project for Metis (Project 5: Passion Project): Sovereign Risk Modeling
 
 By: Gabriel Equitz
 ____________________________________________________________________________
