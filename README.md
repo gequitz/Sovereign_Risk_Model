@@ -64,3 +64,6 @@ This model tries to do things other Sovereign Risk models have not done. This is
 - [Seaborn](https://seaborn.pydata.org/)
 - [Tableau](https://www.tableau.com/)
 - [Jupyter](https://jupyter.org/)
+
+## Blog link
+- https://medium.com/@gabrielequitz/modeling-sovereign-risk-with-data-science-free-web-app-available-1d3ac09fa66a
